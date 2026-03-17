@@ -632,6 +632,7 @@ footer {
 
   .about-photo img {
     max-height: none;
+    object-fit: contain;
   }
 
   /* Timeline photos smaller */
