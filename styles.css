@@ -231,6 +231,7 @@ nav .container {
   width: 100%;
   border-radius: 8px;
   object-fit: cover;
+  object-position: top;
   max-height: 480px;
 }
 
@@ -630,7 +631,7 @@ footer {
   }
 
   .about-photo img {
-    max-height: 360px;
+    max-height: none;
   }
 
   /* Timeline photos smaller */
