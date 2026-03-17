@@ -631,8 +631,9 @@ footer {
   }
 
   .about-photo img {
-    max-height: none;
-    object-fit: contain;
+    max-height: 500px;
+    object-fit: cover;
+    object-position: top center;
   }
 
   /* Timeline photos smaller */
